@@ -1,0 +1,14 @@
+Webhook: ''
+CheckIntervalMs: 43200000
+DBPath: './db'
+GitAuthToken: ''
+GitProjects:
+  -
+    Owner: 'filecoin-project'
+    Repo: 'lotus'
+  -
+    Owner: 'ElrondNetwork'
+    Repo: 'elrond-go'
+  -
+    Owner: 'cosmos'
+    Repo: 'gaia'
